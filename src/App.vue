@@ -13,7 +13,7 @@ import ListCharacters from "./components/ListCharacters.vue";
 
 <template>
   <div class="algo">
-    <h1>Rick App</h1>
+    <h1>Rick App cambio</h1>
   </div>
 
   <ListCharacters />
